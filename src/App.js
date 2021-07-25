@@ -1,5 +1,6 @@
 
 import Avatar from './Avatar/Avatar.js';
+import './Avatar/Avatar.css';
 
 function App() {
   return (
